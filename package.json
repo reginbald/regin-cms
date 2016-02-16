@@ -1,0 +1,27 @@
+{
+  "name": "regin-cms",
+  "version": "1.0.0",
+  "description": "A minimal desktop cms",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/electron-quick-start.git"
+  },
+  "keywords": [
+    "Regin",
+    "CMS",
+    "Reginbald"
+  ],
+  "author": "Jón Reginbald Ívarsson",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
